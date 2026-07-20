@@ -3,15 +3,15 @@
   font-family: "Sora", system-ui, sans-serif;
   line-height: 1.6;
   font-weight: 400;
-  --bg: #f6f1ea;
-  --bg-alt: #efe7dd;
-  --ink: #1f1a15;
-  --muted: #5e5247;
-  --accent: #d18544;
-  --accent-dark: #b06a35;
-  --card: #fffaf5;
-  --border: rgba(31, 26, 21, 0.12);
-  --shadow: 0 24px 60px rgba(28, 23, 19, 0.12);
+  --bg: #f7f4ff;
+  --bg-alt: #eee8fa;
+  --ink: #302544;
+  --muted: #6d6280;
+  --accent: #9b7bc7;
+  --accent-dark: #7655a5;
+  --card: #fdfbff;
+  --border: rgba(48, 37, 68, 0.12);
+  --shadow: 0 24px 60px rgba(67, 48, 98, 0.12);
 }
 
 * {
@@ -21,8 +21,8 @@
 }
 
 body {
-  background: radial-gradient(circle at top left, #fff3e6, transparent 55%),
-    radial-gradient(circle at 70% 0%, #f3d6b3, transparent 40%),
+  background: radial-gradient(circle at top left, #ffffff, transparent 55%),
+    radial-gradient(circle at 70% 0%, #dacbf0, transparent 40%),
     var(--bg);
   color: var(--ink);
 }
@@ -267,7 +267,7 @@ a {
 .pill-list li {
   padding: 14px 16px;
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.78);
   border: 1px solid var(--border);
 }
 
