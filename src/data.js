@@ -1,12 +1,12 @@
 ﻿export const profile = {
   name: "Justin McParland",
   title: "Biomedical Engineering Student | MedTech Innovation",
-  locations: "Brentwood, TN / Melbourne, FL",
+  locations: "Raleigh, NC",
   phone: "(615) 278-8345",
   email: "mcparland.justin@gmail.com",
   linkedin: "www.linkedin.com/in/justin-mcparland",
   summary:
-    "Fourth-year Biomedical Engineering student with a focus on medical device design, hands-on prototyping, and innovation. Quick learner, team-first collaborator, and driven by building safe, effective devices that improve patient outcomes.",
+    "Biomedical Engineering / Medical Technology student with particular interest in early stage medical device development and design. Hard worker focused on advancing personal knowledge and skillset to prepare for a career in medical technology development.",
 };
 
 export const education = [
@@ -30,6 +30,11 @@ export const projects = [
     detail:
       "Explored imaging photoplethysmography techniques to estimate vital signs without skin contact, emphasizing signal quality and real-world conditions.",
   },
+ {
+    title: "OxyDream: Affixaation and Improvement of Hospital Oxygen Delivery Systems",
+    detail:
+      "Identified and adapted the challenges of a local hospital to iteratively design a mechanical system which alleviated clinician burden and optimized nurse performance.",
+  },
   {
     title: "Effect of Formaldehyde Crosslinking on Agarose-Based Hydrogels",
     detail:
@@ -48,6 +53,12 @@ export const projects = [
 ];
 
 export const experience = [
+  {
+    company: "Various Hospitals and Clinics",
+    role: "In-Clinic Student Shadowing",
+    location: "Raleigh, NC",
+    date: "May 2026 – Present",
+  },
   {
     company: "Freedom Boat Club",
     role: "Dock Master",
@@ -78,10 +89,12 @@ export const leadership = [
 ];
 
 export const skills = [
+  "Accountable and Receptive to feedback",
   "Medical device design mindset and curiosity",
   "Soldering and circuitry fundamentals",
   "Risk, CPR, and safety certified for hazardous environments",
-  "CAD, Java, Excel, Google Docs, Word",
+  "CAD, SPSS, COMSOL, Excel, Google Docs, Word",
+  "MATLAB, Simulink, LabVIEW, Java, Python",
   "Creative problem-solving and attention to detail",
   "Organized, critical thinker who thrives under pressure",
 ];
