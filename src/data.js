@@ -30,6 +30,11 @@ export const projects = [
     detail:
       "Explored imaging photoplethysmography techniques to estimate vital signs without skin contact, emphasizing signal quality and real-world conditions.",
   },
+  {
+    title: "Intraoperative Lymph Node Staging during Sentinel Lymph Node Biopsy",
+    detail:
+      "Identified a clinical need for improved intraoperative lymph node staging and examined regulatory and economic considerations for a potential medical device solution.",
+  },
  {
     title: "OxyDream: Affixaation and Improvement of Hospital Oxygen Delivery Systems",
     detail:
@@ -100,6 +105,7 @@ export const skills = [
 ];
 
 export const extracurriculars = [
+  "50+ Clinician Interviewing and Shadowing Hours",
   "Biomedical Engineering Society member",
   "Order of Omega Honor Society inductee",
   "Entrepreneurial Makers Club member",
