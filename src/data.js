@@ -58,6 +58,12 @@ export const projects = [
 ];
 
 export const experience = [
+   {
+    company: "Pulvinar Neuro",
+    role: "Biomedical Engineering Intern",
+    location: "Durham, NC",
+    date: "August 2026 – Present",
+  },
   {
     company: "Various Hospitals and Clinics",
     role: "In-Clinic Student Shadowing",
