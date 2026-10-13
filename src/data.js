@@ -26,7 +26,7 @@ export const education = [
 
 export const projects = [
   {
-    title: "FENNIX Medical - Physiscian Modification of Endograft for complex Aortic Aneurysms",
+    title: "FENNIX Medical - Physiscian Modification of Endograft for Complex Aortic Aneurysms",
     detail:
       "Developed a novel medical device prototype and business plan to address a clinical need, including design, prototyping, and testing of a proof-of-concept device to improve patient outcomes and reduce clinician workload.",
   },
@@ -79,7 +79,7 @@ export const experience = [
     company: "Freedom Boat Club",
     role: "Dock Master",
     location: "Melbourne, FL",
-    date: "Jun 2024 – Present",
+    date: "Jun 2024 – Oct 2026",
   },
   {
     company: "Florida Institute of Technology Financial Aid",
