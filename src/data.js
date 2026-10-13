@@ -26,6 +26,11 @@ export const education = [
 
 export const projects = [
   {
+    title: "FENNIX Medical - Physiscian Modification of Endograft for complex Aortic Aneurysms",
+    detail:
+      "Developed a novel medical device prototype and business plan to address a clinical need, including design, prototyping, and testing of a proof-of-concept device to improve patient outcomes and reduce clinician workload.",
+  },
+  {
     title: "Contactless Sensing of Vital Signs via iPPG",
     detail:
       "Explored imaging photoplethysmography techniques to estimate vital signs without skin contact, emphasizing signal quality and real-world conditions.",
